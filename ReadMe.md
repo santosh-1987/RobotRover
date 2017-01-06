@@ -11,6 +11,9 @@ In order to control a rover, NASA sends a simple string of letters. The possible
 
 Assume that the square directly North from (x, y) is (x, y+1).
 
+#####For Execution Steps follow [RobotRoverWiki](https://github.com/santosh-1987/RobotRover/wiki)
+
+
 ##Input:
 
 The first line of input is the upper-right coordinates of the plateau, the lower-left coordinates are assumed to be 0,0.
@@ -46,7 +49,4 @@ _MMRMMRMRRM_
 _1 3 N_
 
 _5 1 E_
-
-#####For Execution Steps follow [RobotRoverWiki](https://github.com/santosh-1987/RobotRover/wiki)
-
 
